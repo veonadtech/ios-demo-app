@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-HelloWorld/Pods-HelloWorld-frameworks.sh
+${BUILT_PRODUCTS_DIR}/PrebidMobile/PrebidMobile.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/GoogleAds-IMA-iOS-SDK/GoogleInteractiveMediaAds.framework/GoogleInteractiveMediaAds
